@@ -1,2 +1,2 @@
 # How install tool
-Step 1:"apt install python"
+Step 1:'apt install python'
